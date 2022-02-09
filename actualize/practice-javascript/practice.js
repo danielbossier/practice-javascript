@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-var */
+/* eslint-disable max-len */
 // // Write a method that prints out the numbers 1 to 1000 that are divisible by 3.
 // function printNumbersDivisibleByThree() {
 //   var index = 1;
@@ -262,6 +265,7 @@
 
 // join(["one", "two", "three", "four"]);
 
+// eslint-disable-next-line max-len
 // 6. Write a function that takes in an array of numbers and returns the product of all the numbers (each number multiplied by each other).
 
 // function product(numbers) {
@@ -291,3 +295,12 @@
 // setTimeout(function () {
 //   console.log("Third task done!");
 // }, 6000);
+
+var a;
+var b = 2;
+
+a = 7;
+
+b = a;
+
+console.log(a);
