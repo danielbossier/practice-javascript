@@ -296,11 +296,14 @@
 //   console.log("Third task done!");
 // }, 6000);
 
-var a;
-var b = 2;
+// var a = 5;
+// var b = 10;
+// var c = "I am a";
 
-a = 7;
+// a += 1;
+// b += 1;
+// c += " String!";
 
-b = a;
-
-console.log(a);
+// console.log(a);
+// console.log(b);
+// console.log(c);
