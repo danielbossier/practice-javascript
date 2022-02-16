@@ -311,3 +311,35 @@
 // var remainder;
 // remainder = 11 % 3;
 // console.log(remainder);
+
+// var firstName = "Daniel";
+// var lastLetterOfFirstName = firstName[firstName.length - 1];
+
+// var lastName = "Bossier";
+
+// var lastLetterOfLastName = lastName[lastName.length - 1];
+
+// console.log(lastLetterOfFirstName);
+// console.log(lastLetterOfLastName);
+
+// function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
+//   var result = "";
+//   result += "The " + myAdjective + " " + myNoun + " " + myVerb + " to the store " + myAdverb + ".";
+
+//   return result;
+// }
+// console.log(wordBlanks("dog", "big", "ran", "quickly"));
+
+// var myArray = [
+//   ["john", 23],
+//   ["cat", 4],
+// ];
+
+// myArray.push(["dog", 3]);
+
+// console.log(myArray);
+
+// var ourArray = ["Bob", "J", "Squarepants"];
+// ourArray.shift();
+// ourArray.unshift("Spongebob");
+// console.log(ourArray);
