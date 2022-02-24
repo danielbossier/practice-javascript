@@ -343,3 +343,26 @@
 // ourArray.shift();
 // ourArray.unshift("Spongebob");
 // console.log(ourArray);
+
+// function printEveryOtherItem(strings) {
+//   var index = 0;
+//   strings.forEach(function (string) {
+//     if (index % 2 === 0) {
+//       console.log(string);
+//     }
+//     index += 1;
+//   });
+// }
+// printEveryOtherItem(["a", "b", "c", "d", "e"]);
+
+// function lessThan100(array) {
+//   var i = 0;
+//   var array2 = [];
+//   while (i < array.length) {
+//     if (array[i] < 100) {
+//       array2.push(array[i])
+//   }
+//   i += 1;
+// }
+
+// lessThan100([99, 101, 88, 4, 2000, 50]);
