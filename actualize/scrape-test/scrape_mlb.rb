@@ -32,7 +32,8 @@ def scraper
     al_wl_index += 11
     nl_wl_index += 11
   end
-  byebug
+  p al_teams
+  p nl_teams
 end
 
 scraper
